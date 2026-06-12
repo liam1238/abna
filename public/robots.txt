@@ -1,0 +1,5 @@
+# TODO: Replace Sitemap URL with production domain before deploy (currently uses placeholder canonicalUrl).
+User-agent: *
+Allow: /
+
+Sitemap: https://example.com/sitemap.xml
